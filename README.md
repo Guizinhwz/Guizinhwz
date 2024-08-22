@@ -1,6 +1,4 @@
 ### BOAS VINDAS AO MEU PERFIL 🫱🏾🫲🏾
-Meu nome é Guilherme Andrade mendes
-
 Estou estudando na [Alura](https:\\www.alura.com.br)
 e também me desenvolvendo nas linguagens computacionais (Java-script e HTML).
 Utilizo esse espaço para minha organização e compartilhamento dos projetos desenvolvidos
