@@ -1,4 +1,4 @@
-### BOAS VINDAS AO MEU PERFIL 🤵🤵
+### BOAS VINDAS AO MEU PERFIL 🫱🏾🫲🏾
 Meu nome é Guilherme Andrade mendes
 
 Estou estudando na [Alura](https:\\www.alura.com.br)
